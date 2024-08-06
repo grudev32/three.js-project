@@ -1,6 +1,6 @@
 # threejs-projects
 small projects using three.js with stuff I made in Blender!    
-see them here: https://syncopika.github.io/threejs-projects/    
+see them here: https://grudev32.github.io/threejs-projects/    
     
 ## how to run:
 If you have Python installed, `cd` into this repo after downloading and run `python -m http.server`. Then navigate to `http://localhost:8000/` and you should see a list of the projects!     
